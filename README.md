@@ -1,2 +1,2 @@
 # specimen
-test specimens
+test specimens module
